@@ -1,0 +1,42 @@
+     [20:50:39] --- Started Log ---
+     [20:50:39] Cuberite local build build id: Unknown
+     [20:50:39] from commit id: approx: 24603a76408b13eaff5e08af0bb44495b8edb03b built at: approx: 2018-06-20 08:15:57 +0100
+     [20:50:39] Creating new server instance...
+     [20:50:39] Reading server config...
+     [20:50:39] Starting server...
+Info [20:50:39] Compatible clients: 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x
+Info [20:50:39] Compatible protocol versions 47, 107, 108, 109, 110, 210, 315, 316, 335, 338, 340
+Warn [20:50:40] WebServer: The server will run in unsecured HTTP mode.
+Info [20:50:40] Put a valid HTTPS certificate in file 'webadmin/httpscert.crt' and its corresponding private key to 'webadmin/httpskey.pem' (without any password) to enable HTTPS support
+     [20:50:40] Loaded 755 crafting recipes
+     [20:50:40] Loaded 67 furnace recipes and 66 fuels
+     [20:50:40] Loaded 88 brewing recipes
+     [20:50:41] -- Loading Plugins --
+     [20:50:41] Initialised Core v.15
+     [20:50:41] Initialized ChatLog v.3
+     [20:50:41] -- Loaded 2 Plugins --
+     [20:50:42] Preparing spawn (world): 4.50% (18/400; 17.63 chunks / sec)
+     [20:50:43] Preparing spawn (world): 16.00% (64/400; 40.00 chunks / sec)
+     [20:50:45] Preparing spawn (world): 27.75% (111/400; 40.31 chunks / sec)
+     [20:50:46] Preparing spawn (world): 59.75% (239/400; 124.88 chunks / sec)
+     [20:50:47] Preparing spawn (world): 71.50% (286/400; 31.95 chunks / sec)
+     [20:50:49] Preparing spawn (world_nether): 2.25% (9/400; 8.70 chunks / sec)
+     [20:50:51] Preparing spawn (world_nether): 3.50% (14/400; 2.50 chunks / sec)
+     [20:50:52] Preparing spawn (world_nether): 25.75% (103/400; 73.74 chunks / sec)
+     [20:50:53] Preparing spawn (world_nether): 28.50% (114/400; 9.14 chunks / sec)
+     [20:50:55] Preparing spawn (world_nether): 53.50% (214/400; 63.37 chunks / sec)
+     [20:50:56] Preparing spawn (world_nether): 55.00% (220/400; 5.22 chunks / sec)
+     [20:50:57] Preparing spawn (world_nether): 85.00% (340/400; 84.03 chunks / sec)
+     [20:50:59] Preparing spawn (world_the_end): 4.25% (17/400; 16.83 chunks / sec)
+     [20:51:00] Preparing spawn (world_the_end): 15.25% (61/400; 37.23 chunks / sec)
+     [20:51:01] Preparing spawn (world_the_end): 54.50% (218/400; 139.56 chunks / sec)
+     [20:51:03] Preparing spawn (world_the_end): 65.75% (263/400; 27.03 chunks / sec)
+Warn [20:51:04] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0.00, 168.00, 0.00}
+Info [20:51:05] WebAdmin is running on port(s) 8080
+     [20:51:05] Startup complete, took 25204ms!
+     [20:51:42] Shutting down server...
+     [20:51:42] Unloading worlds...
+     [20:51:42] Disabled Core!
+     [20:51:42] Cleaning up...
+     [20:51:42] Shutdown successful!
+     [20:51:42] --- Stopped Log ---

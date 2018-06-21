@@ -1,0 +1,169 @@
+     [19:06:51] --- Started Log ---
+     [19:06:51] Cuberite local build build id: Unknown
+     [19:06:51] from commit id: approx: 24603a76408b13eaff5e08af0bb44495b8edb03b built at: approx: 2018-06-20 08:15:57 +0100
+     [19:06:51] Creating new server instance...
+     [19:06:51] Reading server config...
+Warn [19:06:51] Regenerating settings.ini, all settings will be reset
+     [19:06:51] Starting server...
+Info [19:06:51] Compatible clients: 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x
+Info [19:06:51] Compatible protocol versions 47, 107, 108, 109, 110, 210, 315, 316, 335, 338, 340
+Warn [19:06:52] Regenerating webadmin.ini, all settings will be reset
+Warn [19:06:52] WebServer: The server will run in unsecured HTTP mode.
+Info [19:06:52] Put a valid HTTPS certificate in file 'webadmin/httpscert.crt' and its corresponding private key to 'webadmin/httpskey.pem' (without any password) to enable HTTPS support
+Info [19:06:54] There are no ranks, migrating old-style INI files to new DB ranks...
+Info [19:06:54] (This might take a while)
+Info [19:06:54] Rank migration failed, creating default ranks...
+Info [19:06:54] Default ranks created.
+     [19:06:54] Loaded 755 crafting recipes
+     [19:06:54] Loaded 67 furnace recipes and 66 fuels
+     [19:06:54] Loaded 88 brewing recipes
+Warn [19:06:54] Cannot read world settings from "world/world.ini", defaults will be used.
+Info [19:06:54] Chosen a new random seed for world: 23970578
+Warn [19:06:55] Cannot read world settings from "world_nether/world.ini", defaults will be used.
+Info [19:06:55] Chosen a new random seed for world: 772992150
+Warn [19:06:55] Cannot read world settings from "world_the_end/world.ini", defaults will be used.
+Info [19:06:55] Chosen a new random seed for world: 1613031269
+     [19:06:55] -- Loading Plugins --
+     [19:06:56] Initialised Core v.15
+     [19:06:56] Initialized ChatLog v.3
+     [19:06:56] -- Loaded 2 Plugins --
+     [19:06:58] Preparing spawn (world): 0.25% (1/400; 0.51 chunks / sec)
+     [19:06:59] Preparing spawn (world): 0.75% (3/400; 1.88 chunks / sec)
+     [19:07:01] Preparing spawn (world): 1.50% (6/400; 2.23 chunks / sec)
+     [19:07:02] Preparing spawn (world): 2.25% (9/400; 1.98 chunks / sec)
+     [19:07:03] Preparing spawn (world): 2.75% (11/400; 1.61 chunks / sec)
+     [19:07:05] Preparing spawn (world): 3.50% (14/400; 2.60 chunks / sec)
+     [19:07:06] Preparing spawn (world): 4.25% (17/400; 1.85 chunks / sec)
+     [19:07:07] Preparing spawn (world): 4.75% (19/400; 1.97 chunks / sec)
+     [19:07:08] Preparing spawn (world): 5.50% (22/400; 2.56 chunks / sec)
+     [19:07:09] Preparing spawn (world): 6.75% (27/400; 4.53 chunks / sec)
+     [19:07:11] Preparing spawn (world): 8.25% (33/400; 5.36 chunks / sec)
+     [19:07:12] Preparing spawn (world): 10.25% (41/400; 7.15 chunks / sec)
+     [19:07:13] Preparing spawn (world): 13.00% (52/400; 10.85 chunks / sec)
+     [19:07:14] Preparing spawn (world): 15.25% (61/400; 5.71 chunks / sec)
+     [19:07:15] Preparing spawn (world): 16.50% (66/400; 5.00 chunks / sec)
+     [19:07:16] Preparing spawn (world): 18.00% (72/400; 5.89 chunks / sec)
+     [19:07:17] Preparing spawn (world): 19.50% (78/400; 5.97 chunks / sec)
+     [19:07:18] Preparing spawn (world): 20.75% (83/400; 4.94 chunks / sec)
+     [19:07:19] Preparing spawn (world): 22.50% (90/400; 6.49 chunks / sec)
+     [19:07:20] Preparing spawn (world): 24.00% (96/400; 5.82 chunks / sec)
+     [19:07:21] Preparing spawn (world): 25.25% (101/400; 4.90 chunks / sec)
+     [19:07:22] Preparing spawn (world): 27.50% (110/400; 8.33 chunks / sec)
+     [19:07:24] Preparing spawn (world): 29.50% (118/400; 7.99 chunks / sec)
+     [19:07:25] Preparing spawn (world): 31.50% (126/400; 6.98 chunks / sec)
+     [19:07:26] Preparing spawn (world): 33.75% (135/400; 8.47 chunks / sec)
+     [19:07:27] Preparing spawn (world): 35.25% (141/400; 5.05 chunks / sec)
+     [19:07:28] Preparing spawn (world): 36.75% (147/400; 5.45 chunks / sec)
+     [19:07:29] Preparing spawn (world): 38.50% (154/400; 6.46 chunks / sec)
+     [19:07:30] Preparing spawn (world): 41.25% (165/400; 10.89 chunks / sec)
+     [19:07:31] Preparing spawn (world): 43.50% (174/400; 8.32 chunks / sec)
+     [19:07:33] Preparing spawn (world): 45.25% (181/400; 5.25 chunks / sec)
+     [19:07:34] Preparing spawn (world): 47.00% (188/400; 6.43 chunks / sec)
+     [19:07:35] Preparing spawn (world): 49.00% (196/400; 6.93 chunks / sec)
+     [19:07:36] Preparing spawn (world): 50.25% (201/400; 4.37 chunks / sec)
+     [19:07:37] Preparing spawn (world): 51.75% (207/400; 5.25 chunks / sec)
+     [19:07:38] Preparing spawn (world): 53.75% (215/400; 7.04 chunks / sec)
+     [19:07:40] Preparing spawn (world): 55.25% (221/400; 3.97 chunks / sec)
+     [19:07:41] Preparing spawn (world): 57.00% (228/400; 6.94 chunks / sec)
+     [19:07:42] Preparing spawn (world): 58.75% (235/400; 5.98 chunks / sec)
+     [19:07:43] Preparing spawn (world): 60.25% (241/400; 4.98 chunks / sec)
+     [19:07:44] Preparing spawn (world): 62.00% (248/400; 6.04 chunks / sec)
+     [19:07:45] Preparing spawn (world): 63.50% (254/400; 5.76 chunks / sec)
+     [19:07:47] Preparing spawn (world): 65.00% (260/400; 4.87 chunks / sec)
+     [19:07:48] Preparing spawn (world): 66.00% (264/400; 3.96 chunks / sec)
+     [19:07:49] Preparing spawn (world): 68.00% (272/400; 6.49 chunks / sec)
+     [19:07:50] Preparing spawn (world): 69.75% (279/400; 7.00 chunks / sec)
+     [19:07:51] Preparing spawn (world): 71.00% (284/400; 4.08 chunks / sec)
+     [19:07:52] Preparing spawn (world): 72.50% (290/400; 5.13 chunks / sec)
+     [19:07:53] Preparing spawn (world): 73.75% (295/400; 4.52 chunks / sec)
+     [19:07:54] Preparing spawn (world): 75.00% (300/400; 4.55 chunks / sec)
+     [19:07:55] Preparing spawn (world): 75.75% (303/400; 2.77 chunks / sec)
+     [19:07:57] Preparing spawn (world): 77.00% (308/400; 3.97 chunks / sec)
+     [19:07:58] Preparing spawn (world): 78.25% (313/400; 4.73 chunks / sec)
+     [19:07:59] Preparing spawn (world): 79.50% (318/400; 4.24 chunks / sec)
+     [19:08:00] Preparing spawn (world): 81.00% (324/400; 5.52 chunks / sec)
+     [19:08:01] Preparing spawn (world): 82.75% (331/400; 6.19 chunks / sec)
+     [19:08:02] Preparing spawn (world): 84.00% (336/400; 4.24 chunks / sec)
+     [19:08:03] Preparing spawn (world): 85.00% (340/400; 3.95 chunks / sec)
+     [19:08:04] Preparing spawn (world): 86.00% (344/400; 3.99 chunks / sec)
+     [19:08:05] Preparing spawn (world): 87.50% (350/400; 5.62 chunks / sec)
+     [19:08:06] Preparing spawn (world): 88.50% (354/400; 3.98 chunks / sec)
+     [19:08:07] Preparing spawn (world): 89.75% (359/400; 4.73 chunks / sec)
+     [19:08:09] Preparing spawn (world): 91.00% (364/400; 4.13 chunks / sec)
+     [19:08:10] Preparing spawn (world): 92.50% (370/400; 5.68 chunks / sec)
+     [19:08:11] Preparing spawn (world): 93.50% (374/400; 3.93 chunks / sec)
+     [19:08:12] Preparing spawn (world): 94.75% (379/400; 4.00 chunks / sec)
+     [19:08:13] Preparing spawn (world): 95.75% (383/400; 3.63 chunks / sec)
+     [19:08:14] Preparing spawn (world): 97.25% (389/400; 5.91 chunks / sec)
+     [19:08:15] Preparing spawn (world): 98.50% (394/400; 4.49 chunks / sec)
+Info [19:08:16] World "world": Generated spawnpoint position at {0.50, 79.00, 0.50}
+     [19:08:20] Preparing spawn (world_nether): 0.25% (1/400; 0.27 chunks / sec)
+     [19:08:22] Preparing spawn (world_nether): 1.25% (5/400; 3.39 chunks / sec)
+     [19:08:23] Preparing spawn (world_nether): 2.25% (9/400; 3.57 chunks / sec)
+     [19:08:24] Preparing spawn (world_nether): 3.50% (14/400; 4.75 chunks / sec)
+     [19:08:25] Preparing spawn (world_nether): 5.25% (21/400; 6.43 chunks / sec)
+     [19:08:26] Preparing spawn (world_nether): 6.00% (24/400; 2.93 chunks / sec)
+     [19:08:27] Preparing spawn (world_nether): 6.75% (27/400; 2.25 chunks / sec)
+     [19:08:28] Preparing spawn (world_nether): 8.00% (32/400; 4.61 chunks / sec)
+     [19:08:29] Preparing spawn (world_nether): 9.25% (37/400; 4.37 chunks / sec)
+     [19:08:30] Preparing spawn (world_nether): 12.00% (48/400; 10.96 chunks / sec)
+     [19:08:31] Preparing spawn (world_nether): 15.00% (60/400; 11.88 chunks / sec)
+     [19:08:32] Preparing spawn (world_nether): 18.00% (72/400; 11.29 chunks / sec)
+     [19:08:33] Preparing spawn (world_nether): 22.25% (89/400; 16.18 chunks / sec)
+     [19:08:35] Preparing spawn (world_nether): 25.50% (102/400; 12.43 chunks / sec)
+     [19:08:36] Preparing spawn (world_nether): 29.25% (117/400; 14.46 chunks / sec)
+     [19:08:37] Preparing spawn (world_nether): 33.25% (133/400; 15.62 chunks / sec)
+     [19:08:40] Preparing spawn (world_nether): 35.50% (142/400; 2.37 chunks / sec)
+     [19:08:42] Preparing spawn (world_nether): 36.50% (146/400; 3.42 chunks / sec)
+     [19:08:43] Preparing spawn (world_nether): 37.75% (151/400; 4.74 chunks / sec)
+     [19:08:44] Preparing spawn (world_nether): 40.25% (161/400; 9.05 chunks / sec)
+     [19:08:47] Preparing spawn (world_nether): 40.50% (162/400; 0.34 chunks / sec)
+     [19:08:48] Preparing spawn (world_nether): 42.75% (171/400; 8.63 chunks / sec)
+     [19:08:49] Preparing spawn (world_nether): 44.75% (179/400; 7.78 chunks / sec)
+     [19:08:50] Preparing spawn (world_nether): 46.25% (185/400; 5.02 chunks / sec)
+     [19:08:51] Preparing spawn (world_nether): 48.00% (192/400; 6.96 chunks / sec)
+     [19:08:52] Preparing spawn (world_nether): 50.50% (202/400; 9.43 chunks / sec)
+     [19:08:53] Preparing spawn (world_nether): 53.75% (215/400; 12.70 chunks / sec)
+     [19:08:54] Preparing spawn (world_nether): 56.00% (224/400; 7.89 chunks / sec)
+     [19:08:55] Preparing spawn (world_nether): 58.00% (232/400; 7.83 chunks / sec)
+     [19:08:56] Preparing spawn (world_nether): 60.25% (241/400; 8.79 chunks / sec)
+     [19:09:03] Preparing spawn (world_nether): 62.50% (250/400; 1.30 chunks / sec)
+     [19:09:04] Preparing spawn (world_nether): 64.00% (256/400; 5.05 chunks / sec)
+     [19:09:05] Preparing spawn (world_nether): 65.75% (263/400; 6.03 chunks / sec)
+     [19:09:07] Preparing spawn (world_nether): 67.75% (271/400; 6.74 chunks / sec)
+     [19:09:08] Preparing spawn (world_nether): 70.00% (280/400; 8.70 chunks / sec)
+     [19:09:09] Preparing spawn (world_nether): 73.50% (294/400; 13.47 chunks / sec)
+     [19:09:10] Preparing spawn (world_nether): 77.00% (308/400; 13.99 chunks / sec)
+     [19:09:11] Preparing spawn (world_nether): 83.50% (334/400; 24.48 chunks / sec)
+     [19:09:12] Preparing spawn (world_nether): 86.75% (347/400; 12.96 chunks / sec)
+     [19:09:13] Preparing spawn (world_nether): 92.25% (369/400; 21.89 chunks / sec)
+     [19:09:14] Preparing spawn (world_nether): 96.50% (386/400; 16.10 chunks / sec)
+     [19:09:34] Preparing spawn (world_nether): 92.25% (369/400; 306.22 chunks / sec)
+Info [19:09:34] World "world_nether":Generated spawnpoint position at {0.50, 72.00, 8.50}
+     [19:09:42] Preparing spawn (world_the_end): 0.75% (3/400; 0.42 chunks / sec)
+     [19:09:47] Preparing spawn (world_the_end): 1.00% (4/400; 0.20 chunks / sec)
+     [19:09:56] Preparing spawn (world_the_end): 1.25% (5/400; 0.11 chunks / sec)
+     [19:10:03] Preparing spawn (world_the_end): 1.50% (6/400; 0.15 chunks / sec)
+     [19:10:08] Preparing spawn (world_the_end): 1.75% (7/400; 0.18 chunks / sec)
+     [19:10:12] Preparing spawn (world_the_end): 2.00% (8/400; 0.28 chunks / sec)
+     [19:10:13] Preparing spawn (world_the_end): 6.50% (26/400; 17.75 chunks / sec)
+     [19:10:14] Preparing spawn (world_the_end): 14.50% (58/400; 31.68 chunks / sec)
+     [19:10:15] Preparing spawn (world_the_end): 21.75% (87/400; 27.38 chunks / sec)
+     [19:10:16] Preparing spawn (world_the_end): 28.50% (114/400; 26.79 chunks / sec)
+     [19:10:17] Preparing spawn (world_the_end): 36.75% (147/400; 31.31 chunks / sec)
+     [19:10:18] Preparing spawn (world_the_end): 45.75% (183/400; 35.47 chunks / sec)
+     [19:10:19] Preparing spawn (world_the_end): 52.50% (210/400; 26.42 chunks / sec)
+     [19:10:20] Preparing spawn (world_the_end): 57.75% (231/400; 20.35 chunks / sec)
+     [19:10:21] Preparing spawn (world_the_end): 68.25% (273/400; 40.74 chunks / sec)
+     [19:10:22] Preparing spawn (world_the_end): 76.50% (306/400; 32.38 chunks / sec)
+     [19:10:23] Preparing spawn (world_the_end): 90.00% (360/400; 53.84 chunks / sec)
+Warn [19:10:24] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0.00, 168.00, 0.00}
+     [19:10:25] Preparing spawn (world_the_end): 98.00% (392/400; 380.58 chunks / sec)
+Info [19:10:25] WebAdmin is running on port(s) 8080
+     [19:10:25] Startup complete, took 213737ms!
+     [20:47:15] Shutting down server...
+     [20:47:17] Unloading worlds...
+     [20:47:28] Disabled Core!
+     [20:47:29] Cleaning up...
+     [20:47:29] Shutdown successful!
+     [20:47:29] --- Stopped Log ---
